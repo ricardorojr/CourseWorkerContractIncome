@@ -2,11 +2,11 @@
 
 <h3>Projeto Aplicativo Console </h3>
 
-### Exercício com Enum 
+### Exercício com Enum: 
 <h5>Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar 
 do usuário um mês e mostrar qual foi o salário do funcionário nesse mês</h5>
 
-<h5>Dados de saída</h5>
+<h5>---Exemplo de dados/saída---</h5>
 <h5>Enter department's name: Design<br /> 
 Enter worker data:<br />
 Name: Alex<br />
@@ -31,14 +31,14 @@ Department: Design<br />
 Income for 08/2018: 3000.00<br />
 </h5>
 
-## Sobre o projeto
-## Curso C# 
+## Sobre:
+
 Calcula ganhos de um trabalhador conforme as quantidades de contratos adicionados pelas horas trabalhadas de cada contrato
 <div align="center">
 <img src="https://github.com/ricardorojr/CourseWorkerContractIncome/assets/49491955/c73bc91b-2d75-4824-b01f-0342670d3782"/>
 </div>
 
-# Tecnologia utilizada
+# Tecnologia utilizada:
 - .NET 6.0 https://download.visualstudio.microsoft.com/download/pr/31949bf4-c9ef-4e57-9da2-d798ab8b8bbf/fb7a481d9381bb740223629422a006e0/dotnet-runtime-6.0.21-win-x64.exe
 
 

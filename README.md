@@ -3,7 +3,8 @@
 <h3>Projeto Aplicativo Console </h3>
 
 ## Sobre o projeto
-Curso C# imprimindo ganhos de um trabalhador conforme a quantidade de contratos adicionados
+## Curso C# 
+Calcula ganhos de um trabalhador conforme as quantidades de contratos adicionados pelas horas trabalhadas de cada contrato
 <div align="center">
 <img src="https://github.com/ricardorojr/CourseWorkerContractIncome/assets/49491955/c73bc91b-2d75-4824-b01f-0342670d3782"/>
 </div>
